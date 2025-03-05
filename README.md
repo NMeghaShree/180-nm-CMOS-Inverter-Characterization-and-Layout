@@ -1,5 +1,6 @@
 # 180-nm-CMOS-Inverter-Characterization-and-Layout
-Schematic Of CMOS Inverter:-
+Schematic Of CMOS Inverter:-  
+L(PMOS)=180nm, W(PMOS)=180nm, L(NMOS)=180nm, W(NMOS)=360nm  
 ![image](https://github.com/user-attachments/assets/657a76b4-3073-43da-b141-b2112b8050ef)
 
 Tranfer Characteristics of the Inverter:-

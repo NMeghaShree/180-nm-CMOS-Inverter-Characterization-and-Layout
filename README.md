@@ -14,7 +14,15 @@ Therefore, Delay=10.586 ps
 Power Dissipation:-  
 ![image](https://github.com/user-attachments/assets/ea3c631e-fc1d-446c-b2dc-22976f6de3ee)
 Average Power Dissipation:-  
-![image](https://github.com/user-attachments/assets/aeabbd5a-6bfd-470f-8934-34be0e8e204c)  
+![image](https://github.com/user-attachments/assets/aeabbd5a-6bfd-470f-8934-34be0e8e204c)
+
+Layout:-  
+![image](https://github.com/user-attachments/assets/88f181b8-b796-420d-9529-f7cfe9f76431)
+
+
+Functional Verification after Layout:-  
+![image](https://github.com/user-attachments/assets/43a98312-322f-4bcc-bd64-edb47e7af36c)
+
 
 
 
